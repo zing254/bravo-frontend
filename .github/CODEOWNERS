@@ -1,0 +1,18 @@
+# CODEOWNERS for OPERATION BRAVO - bravo-frontend
+# Minion role assignments (replace with actual GitHub usernames or team names)
+
+# Global ownership
+*         @UI @DEV @QA @OPS @DOC @GIT
+
+# UI components and styles
+/src/     @UI @DASH
+
+# Command center dashboard (Three.js)
+/src/dashboard/ @DASH @UI
+
+# Public assets (branding)
+/public/  @BRAND
+
+# Documentation
+/docs/    @DOC
+README.md @DOC @BRAND
