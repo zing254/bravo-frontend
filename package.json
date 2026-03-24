@@ -11,13 +11,15 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "three": "^0.158.0",
-    "react-three": "^0.0.1"
+    "three": "^0.158.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
     "@vitejs/plugin-react": "^4.2.0",
     "vite": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
